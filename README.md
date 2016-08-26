@@ -1,7 +1,3 @@
-# Deprecated
-
-Prefer https://github.com/Devbootcamp/javascript-racer-3-oojs-style-challenge
-
 # JavaScript Racer 3 Sane JavaScript
 
 ## Learning Competencies
