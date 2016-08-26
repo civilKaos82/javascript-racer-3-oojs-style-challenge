@@ -1,4 +1,4 @@
-# JavaScript Racer 3 Sane JavaScript
+# JavaScript Racer 3 OOJS Style JavaScript
 
 ## Learning Competencies
 
