@@ -48,8 +48,7 @@ Start by reading the basics of JavaScript objects.  Here are some good resources
 
 * [Introduction to Object-Oriented JavaScript][]
 * [The Basics of Object-Oriented JavaScript][]
-* [Object-Oriented JavaScript][]
-* [The Ultimate Guide to Object Oriented Basics of JavaScript][]
+
 
 This list isn't exhaustive and you'll see that the recommendations of these
 articles all vary slightly.  Unlike Ruby, there's much less standardization
@@ -100,10 +99,6 @@ JavaScript works is a key skill.
 
 * [Introduction to Object-Oriented JavaScript][]
 * [The Basics of Object-Oriented JavaScript][]
-* [Object-Oriented JavaScript][]
-* [The Ultimate Guide to Object Oriented Basics of JavaScript][]
 
 [Introduction to Object-Oriented JavaScript]: https://developer.mozilla.org/en-US/docs/JavaScript/Introduction_to_Object-Oriented_JavaScript
 [The Basics of Object-Oriented JavaScript]: http://net.tutsplus.com/tutorials/javascript-ajax/the-basics-of-object-oriented-javascript/
-[Object-Oriented JavaScript]: http://www.gotoandlearn.com/play.php?id=159
-[The Ultimate Guide to Object Oriented Basics of JavaScript]: http://www.1stwebdesigner.com/design/object-oriented-basics-javascript/
